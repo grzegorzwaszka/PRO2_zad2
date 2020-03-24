@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{7EFB7217-94BE-46E7-B685-6520810BAE3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Onion.Infrastructure.MockDbService/Services/MockDbService.cs">
+    <Files>
+      <File FileName="Onion.Infrastructure.MockDbService/Services/MockDbService.cs" Line="15" Column="61" />
+      <File FileName="Onion.Domain/Entities/Student.cs" Line="1" Column="1" />
+      <File FileName="Onion.Domain/Services/IStudentDbService.cs" Line="10" Column="9" />
+      <File FileName="Onion.UI.Api/Controllers/StudentsController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PRO_PL" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Onion.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Onion.Infrastructure.MockDbService" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="UI" expanded="True">
+              <Node name="Onion.UI.Api" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Properties" expanded="True" />
+              </Node>
+              <Node name="Onion.UI.WebApp" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UI.Onion.UI.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

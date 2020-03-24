@@ -1,0 +1,8 @@
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/obj/Debug/netcoreapp3.1/Onion.Domain.csprojAssemblyReference.cache
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/obj/Debug/netcoreapp3.1/Onion.Domain.AssemblyInfoInputs.cache
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/obj/Debug/netcoreapp3.1/Onion.Domain.AssemblyInfo.cs
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/bin/Debug/netcoreapp3.1/Onion.Domain.deps.json
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/bin/Debug/netcoreapp3.1/Onion.Domain.dll
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/bin/Debug/netcoreapp3.1/Onion.Domain.pdb
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/obj/Debug/netcoreapp3.1/Onion.Domain.dll
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Domain/obj/Debug/netcoreapp3.1/Onion.Domain.pdb

@@ -1,0 +1,11 @@
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.csprojAssemblyReference.cache
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.AssemblyInfoInputs.cache
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.AssemblyInfo.cs
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/bin/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.deps.json
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/bin/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.dll
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/bin/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.pdb
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/bin/Debug/netcoreapp3.1/Onion.Domain.dll
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/bin/Debug/netcoreapp3.1/Onion.Domain.pdb
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.csproj.CopyComplete
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.dll
+/Users/grzegorzwaszkiewicz/Downloads/PRO_PL/Onion.Infrastructure.MockDbService/obj/Debug/netcoreapp3.1/Onion.Infrastructure.MockDbService.pdb
